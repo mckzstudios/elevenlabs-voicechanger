@@ -1,0 +1,6 @@
+setuptools>=65.0.0
+pyaudio>=0.2.11
+elevenlabs>=0.2.26
+sounddevice>=0.4.6
+numpy>=1.21.0
+requests>=2.28.0
