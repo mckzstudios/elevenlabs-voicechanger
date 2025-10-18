@@ -4,3 +4,5 @@ elevenlabs>=0.2.26
 sounddevice>=0.4.6
 numpy>=1.21.0
 requests>=2.28.0
+pydub>=0.25.1
+scipy>=1.9.0
